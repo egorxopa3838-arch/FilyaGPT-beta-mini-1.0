@@ -16,6 +16,8 @@ A simple Filya chat-bot in Kotlin!
 ## Author
 Egor (@egorxopa3838-arch)
 
+------------------------------
+
 # FilyaGPT-Mimi-Beta 🐱
 
 Простой чат-бот Филя на Kotlin!
