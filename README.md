@@ -2,6 +2,12 @@
 Kotlin
 # FilyaGPT-Mimi-Beta 🐱
 
+## License
+MIT — use it freely!
+
+## Contacts
+- GitHub: @egorxopa3838-arch
+
 A simple Filya chat-bot in Kotlin!
 
 ## Versions
@@ -17,6 +23,12 @@ A simple Filya chat-bot in Kotlin!
 Egor (@egorxopa3838-arch)
 
 ------------------------------
+
+## Лицензия
+MIT — используй свободно!
+
+## Контакты
+- GitHub: @egorxopa3838-arch
 
 # FilyaGPT-Mimi-Beta 🐱
 
